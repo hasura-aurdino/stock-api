@@ -1,13 +1,14 @@
  stock-api
  
- SOFTWARE REQUIRED:
- 
- Java8 JDK or Java10 JDK (this project was built with jdk10)
- Apache Maven
- MongoDB
+> SOFTWARE REQUIRED:
  
  
- Run API Service Locally
+Java8 JDK or Java10 JDK (this project was built with jdk10)
+Apache Maven
+MongoDB
+ 
+ 
+> Run API Service Locally
 Run the following in the root directory:
 
 Windows
