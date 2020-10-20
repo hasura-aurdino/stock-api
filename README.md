@@ -13,16 +13,16 @@
 
 >Windows
 
-=mvnw.cmd clean install
-=mvnw.cmd spring-boot:run
+1)mvnw.cmd clean install
+2)mvnw.cmd spring-boot:run
 
 >MacOS
-=./mvnw clean install
-=./mvnw spring-boot:run
+1)./mvnw clean install
+2)./mvnw spring-boot:run
 
 >Links
-=Swagger
-=UI: http://localhost:8080/swagger-ui.html
+Swagger
+UI: http://localhost:8080/swagger-ui.html
 
 API Spec: http://localhost:8080/v2/api-docs
 extracted YAML and JSON under /src/main/resources/static directory
